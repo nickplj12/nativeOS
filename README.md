@@ -35,3 +35,6 @@ You (for using nativeOS!)
 
 ## For Android Users
 Coming soon.. for now use the web version.
+
+
+###### idk if im gonna work on this anymore
