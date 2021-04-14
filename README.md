@@ -25,4 +25,13 @@ You (for using nativeOS!)
 
  
  
-random text for no reason fuwgesuieshefwi
+# Use on Web
+1. Go to [the GitHub repository page](https://nickpythonluajava/run-nativeOS)
+
+## For iOS users
+2. Follow step 1 for Use on Web
+3. Press the Share button ![image](https://i.ibb.co/85D5wbS/share.png)
+4. Press the Add to Home Screen button ![image1](https://i.ibb.co/DGw6WqH/a2hs.png)
+
+## For Android Users
+Coming soon.. for now use the web version.
