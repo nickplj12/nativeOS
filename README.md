@@ -35,6 +35,7 @@ You (for using nativeOS!)
 ![image](https://projects.sappharad.com/s3air_ios/20210213_beta/share.svg)
 <br>
 ![image1](https://i.ibb.co/DGw6WqH/a2hs.png)
+<br>
 ![image2](https://projects.sappharad.com/s3air_ios/20210213_beta/addToHome.png)
 
 ## For Android Users
