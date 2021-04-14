@@ -26,7 +26,7 @@ You (for using nativeOS!)
  
  
 # Use on Web
-1. Go to [the GitHub repository page](https://nickpythonluajava/run-nativeOS)
+1. Go to [the GitHub repository page](https://nickpythonluajava.github.io/run-nativeOS)
 
 ## For iOS users
 2. Follow step 1 for Use on Web
