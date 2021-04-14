@@ -30,8 +30,10 @@ You (for using nativeOS!)
 
 ## For iOS users
 2. Follow step 1 for Use on Web
-3. Press the Share button ![image](https://i.ibb.co/85D5wbS/share.png)
-4. Press the Add to Home Screen button ![image1](https://i.ibb.co/DGw6WqH/a2hs.png)
+3. Press the Share button 
+![image](https://projects.sappharad.com/s3air_ios/20210213_beta/share.svg)
+4. Press the Add to Home Screen button 
+![image1](https://i.ibb.co/DGw6WqH/a2hs.png)
 
 ## For Android Users
 Coming soon.. for now use the web version.
