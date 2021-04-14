@@ -33,7 +33,9 @@ You (for using nativeOS!)
 3. Press the Share button
 4. Press the Add to Home Screen button 
 ![image](https://projects.sappharad.com/s3air_ios/20210213_beta/share.svg)
+<br>
 ![image1](https://i.ibb.co/DGw6WqH/a2hs.png)
+![image2](https://projects.sappharad.com/s3air_ios/20210213_beta/addToHome.png)
 
 ## For Android Users
 Coming soon.. for now use the web version.
