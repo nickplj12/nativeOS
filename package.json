@@ -1,0 +1,6 @@
+{
+	"_comment1": "package.json for operating system worky crap",
+	"name": "nativeOS",
+	"main": "system.html",
+	"icons": {"16": "favicon.png"}
+}
