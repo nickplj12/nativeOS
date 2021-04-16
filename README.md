@@ -16,12 +16,18 @@ GitHub wouldn't let me upload mre than 100 files and the git command line seems 
 # Credits
 
 [HTMLifier](https://sheeptester.github.io/htmlifier/)
+<br>
 [Scratch 3](https://scratch.mit.edu/)
+<br>
 [NW.js](https://nwjs.io/)
+<br>
 [The Chromium Project](https://www.chromium.org/)
+<br>
 Me (Creator)
+<br>
 
 You (for using nativeOS!)
+<br>
 
  
  
