@@ -1,8 +1,0 @@
-Scratch3:
-  type: programming
-  filenames:
-  - sb3
-  color: "#fca903"
-  ace_mode: text
-  tm_scope: source.sb3
-  language_id: 694206969
