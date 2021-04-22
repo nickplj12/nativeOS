@@ -1,5 +1,5 @@
 # Properties
-If you wanna make a mod or convert this in ![HTMLifier](https://sheeptester.github.io/htmlifier/) then here are the properties of the sb3 file.
+If you wanna make a mod or convert this in [HTMLifier](https://sheeptester.github.io/htmlifier/) then here are the properties of the sb3 file.
 
 <br>
 
